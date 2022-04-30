@@ -18,10 +18,3 @@ How to automate AWS Endorsement
 6. Delete any RDS Snapshot that is older then 2 days 
 
 these Scripts can directly be used with AWS lambda function for Automation purposes as well
-
-## Installation
-
-First of all install [python]("https://www.python.org/downloads/") on your system.
-```
-pip install boto3
-```
