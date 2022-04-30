@@ -17,4 +17,4 @@ How to automate AWS Endorsement
 5. Delete any RDS Instance or Cluster which does not have a specific tag with it 
 6. Delete any RDS Snapshot that is older then 2 days 
 
-these Scripts can directly be used with AWS lambda function for Automation purposes as well
+This bunch of Scripts can directly be used with AWS lambda function for Automation purposes as well
