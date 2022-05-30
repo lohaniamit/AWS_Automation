@@ -2,14 +2,14 @@
 How to automate AWS Endorsement
 
 ### EC2 :
-
+Done:
 1. Create your own Key based SnapShots 
 2. Delete SnapShots 
 3. Delete/ Terminate any EC2 instance which does not have a user/ any specific tag 
 4. stop any useless Running Ec2 instance
 
 ### RDS : 
-
+Planned:
 1. delete RDS Instance
 2. Delete RDS Cluster
 3. Stop any useless Running RDS Cluster/Instance
